@@ -1,0 +1,61 @@
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-family: 'Faster One', cursive;
+    font-size: 10vw;
+}
+
+body {
+    background-color: #ffeb3b;
+    transition-duration: 0.3s;
+    transition-property: background-color;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#race {
+    width: 100%;
+    text-align: center;
+    top: 0%;
+    margin: 0px 0px 0px 0px;
+}
+
+#code {
+    top: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 20vw;
+}
+
+button {
+    border: none;
+    width: 30.1%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 1% 1.4%;
+    border-radius: 20px;
+    background-color: deepskyblue;
+    transition-duration: 0.2s;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 6vh;
+}
+
+.second {
+    display: inline;
+}
+
+.third {
+    display: inline;
+}
+
+.first {
+    display: inline;
+}
+
+img {
+    width: 90%;
+    margin: 5%;
+}
