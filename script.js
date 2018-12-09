@@ -83,7 +83,7 @@ function verify(){
                 setTimeout(() => {document.getElementsByTagName("body").item(0).innerHTML = null;
                 
                 var DOM_img = document.createElement("img");
-                DOM_img.src = "./img/wink.svg";
+                DOM_img.src = "./wink.svg";
                 DOM_img.style.width = 100;
 
                 document.getElementsByTagName("body").item(0).appendChild(DOM_img);
